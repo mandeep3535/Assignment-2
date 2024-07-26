@@ -1,0 +1,37 @@
+Distance in centimeter,Width in centimeter,Fitts ID 
+3,0.5,2.807354922
+6,0.5,3.700439718
+10,0.5,4.392317423
+3,1.25,1.765534746
+6,1.25,2.5360529
+10,1.25,3.169925001
+3,2,1.321928095
+6,2,2
+10,2,2.584962501
+,,
+,,
+,,
+,,
+,TOUCHPAD,
+,,
+,Mean(All participants_ COND1),2.223073033
+,Mean(All participants_ COND2),1.766300967
+,Mean(All participants_ COND3),2.360695533
+,Mean(All participants_ COND4),1.997558344
+,Mean(All participants_ COND5),2.013021103
+,Mean(All participants_ COND6),2.699847867
+,Mean(All participants_ COND7),2.0321445
+,Mean(All participants_ COND8),2.234278567
+,Mean(All participants_ COND9),2.009928112
+,,
+,MOUSE,
+,,
+,Mean(All participants_ COND1),1.523831687
+,Mean(All participants_ COND2),1.34561139
+,Mean(All participants_ COND3),2.091777661
+,Mean(All participants_ COND4),1.801205967
+,Mean(All participants_ COND5),1.469112127
+,Mean(All participants_ COND6),2.116418328
+,Mean(All participants_ COND7),1.559006433
+,Mean(All participants_ COND8),1.9274828
+,Mean(All participants_ COND9),1.836067233
